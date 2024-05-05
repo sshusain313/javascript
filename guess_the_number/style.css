@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+
+}
+
+h1{
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+}
+p{
+    color: #fff;
+    text-align: center;
+}
+
+#wrapper{
+    background-color: grey;
+    width: 35vw;
+    height: 75vh;
+    margin: auto;
+}
+
+form{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 10px;
+}
+
+label2{
+    color: #fff;
+    font-size: 36px;    
+}
+
+#guessField{
+    padding: 5px;
+    border-radius: 4px;
+}
+
+#subt{
+    color: #fff;
+    background-color: black;
+    width: 35%;
+    border-radius: 7px;
+    padding: 10px;
+    margin: auto;
+}
